@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['mini_project.py'],
-             pathex=['C:\\Users\\Saugat\\Desktop\\mini_project'],
+             pathex=['C:\\Users\\Saugat\\Desktop\\mini_project\\MINI'],
              binaries=[],
              datas=[],
              hiddenimports=[],
